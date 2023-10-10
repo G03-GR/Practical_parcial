@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(255, 242, 234);
+}
+header{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background-color: antiquewhite;
+}
+div{
+    width: 600px;
+    background-color: antiquewhite;
+    text-align: justify;
+
+}
+.i{
+    width: 100%;
+    background-color:antiquewhite;
+    font-weight: normal;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+nav a{
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: coral;
+}
+h3{
+    font-size: 20;
+    font-family: serif;
+}
+.i p{
+    font-family: serif;
+}
+article li{
+    font-size: 20px;
+}
+
+article img{
+    width: 300px;
+    border-radius: 20px;
+}
